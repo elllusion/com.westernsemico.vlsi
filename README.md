@@ -28,9 +28,13 @@ You can also try the demo library
 in the releases section.  DRC and LVS (aka NCC) should work for the
 demo library, as well as 3D view and GDS export.
 
+![3D view of pads](https://gitlab.com/westernsemico/releases/-/raw/master/skywater130-driver.png)
+
 ![demo contacts](https://gitlab.com/westernsemico/releases/-/raw/master/electric-skywater130-demo-contacts.png)
 
 ![skywater130-lvs.png](https://gitlab.com/westernsemico/releases/-/raw/master/skywater130-lvs.png)
 
 ![skywater130-metalstack.png](https://gitlab.com/westernsemico/releases/-/raw/master/skywater130-metalstack.png)
+
+![3D view of standard cell](https://gitlab.com/westernsemico/releases/-/raw/master/electric-skywater130-3d.png)
 
